@@ -1,0 +1,14 @@
+.cardTotal {
+    margin: 3rem 0rem 0.5rem 0.5rem;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.cardTotal button {
+    background-color: #389071;
+    border: none;
+}
+
+.cardTotal button:hover {
+    background-color: #245745;
+    border: none;
+}

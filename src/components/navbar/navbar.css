@@ -1,0 +1,13 @@
+.navlink {
+    text-decoration: none;
+    color: rgb(48, 48, 48);
+    padding: 0rem 1rem;
+}
+
+.links {
+    margin: 0rem 9rem;
+}
+
+.navlink:hover {
+    color: black;
+}

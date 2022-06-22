@@ -1,0 +1,10 @@
+.carouselTotal{
+    background: linear-gradient(167deg, rgba(81,210,164,1) 37%, rgba(56,144,113,1) 100%);
+}
+
+.carouselTotal img {
+    object-fit: cover;
+    height: 40vh;
+    width: 100vw;
+    opacity: 50%;
+}
